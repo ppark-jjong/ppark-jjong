@@ -1,29 +1,14 @@
-### Hi there 👋
-
-<!--
-**ppark-jjong/ppark-jjong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div> 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=hayannn&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=ppark__jjong&fontAlign=50)
 ##  :wave: Welcome my github profile !
 ### Introduction 
 안녕하세요!<br>
 백엔드 개발자를 준비하고 있는 박종혁입니다.<br>
-저의 개발 모토는  "repeat and move on" <br>
-개발 기록은 저의 [velog](https://pp-jjong.tistory.com/)와 [Portfolio](https://www.notion.so/cfc284333de941b2bd4be01d571ba32f?pvs=4)를 참고해주세요!!
+저의 개발 모토는  "repeat and move on" 으로 <br>
+제가 맡은 일에 책임감을 가지고 같이 일하고 싶은 개발자가 되기 위해 계속 반복하고 나아가고 있습니다. 🌱 <br>
+개발 기록은 저의 [Tistory](https://pp-jjong.tistory.com/)와 [Portfolio](https://www.notion.so/cfc284333de941b2bd4be01d571ba32f?pvs=4)를 참고해주세요!!
 
 ---
   
@@ -35,18 +20,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=Spring Data JPA&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
 <br>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
 <br>
 
 #### 📍Database
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=Redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/RDS?style=for-the-badge&logo=Redis&logoColor=white"/>
 <br>
 
 #### 📍App
