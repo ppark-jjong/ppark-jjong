@@ -10,6 +10,7 @@
 
 
 ### 👋 Introduction 
+<br>
 안녕하세요!<br>
 백엔드 개발자를 준비하고 있는 박종혁입니다.<br>
 저의 개발 모토는  "repeat and move on" 으로 <br>
@@ -17,8 +18,10 @@
 
 <br>
 <br>
+
+
 ## 💻 DEV's log 
--
+<br>
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.notion.so/cfc284333de941b2bd4be01d571ba32f?pvs=4">
     <img src="https://img.shields.io/badge/Portfolio-FFC0CB?style=for-the-badge"> 
@@ -27,20 +30,24 @@
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=dark"> 
     </a>
   
-</div><br><br>
+</div>
+
+<br><br>
 
 
-### 📞 Contact 
-   <a href="mailto:parkjonghyeok2000@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
+## 📞 Contact
+<br>
+<a href="mailto:parkjonghyeok2000@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+</a>
   
 
-   <br>
+<br>
 <br>
  
-### ⚒️ Stack 
--
+## ⚒️ Stack 
+<br>
+
 #### Backend
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <br>
@@ -66,7 +73,7 @@
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 <br>
 
-## etc
+#### etc
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" >
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
