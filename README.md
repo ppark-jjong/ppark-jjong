@@ -15,9 +15,8 @@
 저의 개발 모토는  "repeat and move on" 으로 <br>
 제가 맡은 일에 책임감을 가지고 같이 일하고 싶은 개발자가 되기 위해 계속 반복하고 나아가고 있습니다. 🌱 <br>
 
-----
-
-
+<br>
+<br>
 ## 💻 DEV's log 
 -
 <div style="display:flex; flex-direction:row;">
@@ -28,17 +27,18 @@
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=dark"> 
     </a>
   
-</div><br>
+</div><br><br>
 
-----
+
 ### 📞 Contact 
--
    <a href="mailto:parkjonghyeok2000@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-    ----
+  
 
-    
+   <br>
+<br>
+ 
 ### ⚒️ Stack 
 -
 #### Backend
@@ -72,7 +72,9 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 
-----
+<br>
+<br>
+
 
 ### My Github info💡
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppark-jjong&layout=compact&theme=dark">
