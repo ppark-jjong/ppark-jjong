@@ -20,8 +20,6 @@
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=Spring Data JPA&logoColor=white">
 <br>
-
-<br>
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
 <br>
 
@@ -52,12 +50,5 @@
 ---
 
 ### My Github info💡
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayannn&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=hayannn&show_icons=true&count_private=true&hide=stars">
-
----
-  
-### :pencil2: Study log
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dlgkdis801)](https://velog.io/@dlgkdis801)
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppark-jjong&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=ppark-jjong&show_icons=true&count_private=true&hide=stars">
