@@ -1,4 +1,9 @@
-
+<details>
+<summary>
+  토글 제목
+</summary>
+   토글 안 내용
+</details>
 <div> 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=ppark__jjong&fontAlign=50)
