@@ -9,7 +9,12 @@
 제가 맡은 일에 책임감을 가지고 같이 일하고 싶은 개발자가 되기 위해 계속 반복하고 나아가고 있습니다. 🌱 <br>
 개발 기록은 저의 [Tistory](https://pp-jjong.tistory.com/)와 [Portfolio](https://www.notion.so/cfc284333de941b2bd4be01d571ba32f?pvs=4)를 참고해주세요!!
 
+----
+Email : parkjonghyeok2000@gmail.com
+----
+
 ---
+
   
 ### Stack ⚒️
 
@@ -34,7 +39,6 @@
 </summary>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"/>
-<img src="https://img.shields.io/badge/RDS?style=for-the-badge&logo=Redis&logoColor=white"/>
 </details>
 
 <details>
