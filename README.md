@@ -63,7 +63,7 @@
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"/>
 
 #### App
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-3DDC84?style=for-the-badge&logo=kotlin&logoColor=white"/>
 <br>
 
 
