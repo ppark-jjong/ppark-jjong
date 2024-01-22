@@ -62,10 +62,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"/>
 
-#### App
-<img src="https://img.shields.io/badge/Kotlin-3DDC84?style=for-the-badge&logo=kotlin&logoColor=white"/>
 <br>
-
 
 #### Tools
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
